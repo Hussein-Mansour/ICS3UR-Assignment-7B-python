@@ -15,7 +15,7 @@ def new_list(int_list):
 
 
 def main():
-    # this function uses a 2D list
+    # this function prints the output
     List_of_numbers = []
 
     # start
